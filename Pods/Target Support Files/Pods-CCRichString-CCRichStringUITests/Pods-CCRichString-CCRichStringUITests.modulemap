@@ -1,0 +1,6 @@
+framework module Pods_CCRichString_CCRichStringUITests {
+  umbrella header "Pods-CCRichString-CCRichStringUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

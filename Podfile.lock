@@ -1,0 +1,16 @@
+PODS:
+  - SwiftRichString (3.7.2)
+
+DEPENDENCIES:
+  - SwiftRichString (= 3.7.2)
+
+SPEC REPOS:
+  trunk:
+    - SwiftRichString
+
+SPEC CHECKSUMS:
+  SwiftRichString: d61b807db1f8834c26fee92b6dd3e1be2dc5af03
+
+PODFILE CHECKSUM: 3de9f3860366b85883eade4ba8e9b65013492609
+
+COCOAPODS: 1.10.0

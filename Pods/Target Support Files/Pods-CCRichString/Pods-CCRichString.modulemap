@@ -1,0 +1,6 @@
+framework module Pods_CCRichString {
+  umbrella header "Pods-CCRichString-umbrella.h"
+
+  export *
+  module * { export * }
+}
